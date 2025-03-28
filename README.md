@@ -1,17 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishnu Shah
-===================================================================================================================================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=My+name+is+Vishnu+Shah" alt="Typing SVG" /></a>
 
-Web Developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Web+Developer" alt="Typing SVG" /></a>
 -------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [shahvishnu1112@gmail.com](mailto:shahvishnu1112@gmail.com)
-* 🧠  I'm learning Javascript
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%8C%8D%C2%A0+I'm+based+in+India" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=9&pause=1000&color=F7F7F7&width=435&lines=%E2%9C%89%EF%B8%8F%C2%A0+You+can+contact+me+at+%5Bshahvishnu1112%40gmail.com%5D" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%A7%A0%C2%A0+I'm+learning+Javascript" alt="Typing SVG" /></a>
 
 <a href="https://www.github.com/VISHNUSHAH1112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
 
-### Skills
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+Skills" alt="Typing SVG" /></a>
 
 
 <p align="left">
@@ -19,13 +18,13 @@ src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=fo
 </p>
 
 
-### Socials
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+Socials" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://www.github.com/VISHNUSHAH1112" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sanatani_vishnu__1112" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vishnu-shah-61b158327/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=+%23%23%23+Badges" alt="Typing SVG" /></a>
 
-<b>My GitHub Stats</b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=My+GitHub+Stats" alt="Typing SVG" /></a>
 
 <a href="http://www.github.com/VISHNUSHAH1112"><img src="https://github-readme-stats.vercel.app/api?username=VISHNUSHAH1112&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="VISHNUSHAH1112's GitHub stats" /></a>
 
