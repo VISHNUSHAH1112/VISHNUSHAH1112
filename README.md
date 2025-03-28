@@ -4,13 +4,13 @@
 -------------
 
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%8C%8D%C2%A0+I'm+based+in+India" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=9&pause=1000&color=F7F7F7&width=435&lines=%E2%9C%89%EF%B8%8F%C2%A0+You+can+contact+me+at+%5Bshahvishnu1112%40gmail.com%5D" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=600&lines=%E2%9C%89%EF%B8%8F%C2%A0+You+can+contact+me+at+%5Bshahvishnu1112%40gmail.com%5D" alt="Typing SVG" /></a>
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%A7%A0%C2%A0+I'm+learning+Javascript" alt="Typing SVG" /></a>
 
 <a href="https://www.github.com/VISHNUSHAH1112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+Skills" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+My+Skills" alt="Typing SVG" /></a>
 
 
 <p align="left">
@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=fo
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+Socials" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+Social+Media" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://www.github.com/VISHNUSHAH1112" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sanatani_vishnu__1112" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vishnu-shah-61b158327/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
