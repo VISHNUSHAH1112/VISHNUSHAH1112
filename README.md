@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in Indiasds
+* 🌍  I'm based in India
 * ✉️  You can contact me at [shahvishnu1112@gmail.com](mailto:shahvishnu1112@gmail.com)
 * 🧠  I'm learning Javascript
 
