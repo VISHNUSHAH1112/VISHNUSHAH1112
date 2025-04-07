@@ -1,8 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=My+Name+is+Vishnu+Shah" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Web+Developer" alt="Typing SVG" /></a>
--------------
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+Name+is+Vishnu" alt="Typing SVG" /></a>
+</div> 
+<br><br>
+<div align="center" script=left>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Web+Developer+from+Surat" alt="Typing SVG" /></a>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%8C%8D%C2%A0+I'm+based+in+India" alt="Typing SVG" /></a>
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=600&lines=%E2%9C%89%EF%B8%8F%C2%A0+You+can+contact+me+at+%5Bshahvishnu1112%40gmail.com%5D" alt="Typing SVG" /></a>
@@ -10,6 +14,7 @@
 
 <a href="https://www.github.com/VISHNUSHAH1112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%23%23%23+My+Skills" alt="Typing SVG" /></a>
 
@@ -27,14 +32,21 @@ src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=fo
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=My+GitHub+Stats" alt="Typing SVG" /></a>
 
+<div align="center">
 <a href="http://www.github.com/VISHNUSHAH1112"><img src="https://github-readme-stats.vercel.app/api?username=VISHNUSHAH1112&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="VISHNUSHAH1112's GitHub stats" /></a>
+</div>
+<br>
 
+<div align="center">
 <a href="http://www.github.com/VISHNUSHAH1112"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNUSHAH1112&stroke=f97316&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
-
-<a href="http://www.github.com/VISHNUSHAH1112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VISHNUSHAH1112&bg_color=ffffff&color=f97316&line=3382ed&point=f97316&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+</div>
+<div align="center">
+<!-- <a href="http://www.github.com/VISHNUSHAH1112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VISHNUSHAH1112&bg_color=ffffff&color=f97316&line=3382ed&point=f97316&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+</div>
+<br>
+<div align="center">
 <a href="https://github.com/VISHNUSHAH1112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUSHAH1112&langs_count=10&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</div>
 
 
 
