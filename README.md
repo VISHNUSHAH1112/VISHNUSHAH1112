@@ -1,3 +1,7 @@
+
+
+<div align="center">
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+Name+is+Vishnu" alt="Typing SVG" /></a>
@@ -32,9 +36,11 @@ src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=fo
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=My+GitHub+Stats" alt="Typing SVG" /></a>
 
-<div align="center">
-<a href="http://www.github.com/VISHNUSHAH1112"><img src="https://github-readme-stats.vercel.app/api?username=VISHNUSHAH1112&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="VISHNUSHAH1112's GitHub stats" /></a>
-</div>
+ <div align="center">
+<!--     <img height="192px" alt="VISHNUSHAH1112's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUSHAH1112&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/> -->
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=VISHNUSHAH1112&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+  </div>
 <br>
 
 <div align="center">
@@ -47,6 +53,13 @@ src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=fo
 <div align="center">
 <a href="https://github.com/VISHNUSHAH1112" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUSHAH1112&langs_count=10&title_color=3382ed&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+
+
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VISHNUSHAH1112&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/VISHNUSHAH1112/VISHNUSHAH1112"><img alt="VISHNUSHAH1112's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=VISHNUSHAH1112&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@VISHNUSHAH1112/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  </div>
 
 
 
