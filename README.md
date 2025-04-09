@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=fo
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VISHNUSHAH1112)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=VISHNUSHAH1112)
 
     
 
