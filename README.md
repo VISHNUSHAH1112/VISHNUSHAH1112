@@ -11,6 +11,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Web+Developer+from+Surat" alt="Typing SVG" /></a>
 </div>
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%8C%8D%C2%A0+I'm+based+in+India" alt="Typing SVG" /></a>
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=600&lines=%E2%9C%89%EF%B8%8F%C2%A0+You+can+contact+me+at+%5Bshahvishnu1112%40gmail.com%5D" alt="Typing SVG" /></a>
