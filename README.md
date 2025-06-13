@@ -16,7 +16,7 @@
 
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%8C%8D%C2%A0+I'm+based+in+India" alt="Typing SVG" /></a>
 * <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=700&lines=%E2%9C%89%EF%B8%8F%C2%A0+You+can+contact+me+at+%5Bshahvishnu1112%40gmail.com%5D" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%A7%A0%C2%A0+I'm+learning+Javascript" alt="Typing SVG" /></a>
+* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%A7%A0%C2%A0+I'm+learning+React+Js" alt="Typing SVG" /></a>
 
 <a href="https://www.github.com/VISHNUSHAH1112" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VISHNUSHAH1112?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
